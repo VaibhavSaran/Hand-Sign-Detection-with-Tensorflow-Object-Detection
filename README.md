@@ -27,7 +27,7 @@ The general concept is that a number of CNN layers are used followed by a number
 
 ## Setup Process
 <br />
-<b>Step 1.</b> Clone this repository: <a href = "https://github.com/VaibhavSaran/Hand-Sign-Prediction-with-MP-Holistics">Hand Sign Prediction</a>.
+<b>Step 1.</b> Clone this repository: <a href = "https://github.com/VaibhavSaran/Hand-Sign-Detection-with-Tensorflow-Object-Detection">Hand Sign Prediction</a>.
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
