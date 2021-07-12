@@ -1,0 +1,26 @@
+<annotation>
+	<folder>notok</folder>
+	<filename>notok.11a1aeba-de5a-11eb-a1ff-8c47be4b3dc0.jpg</filename>
+	<path>D:\Hand-Sign-Prediction-with-Tensorflow-Object-Detection\Tensorflow\workspace\images\collectedimages\notok\notok.11a1aeba-de5a-11eb-a1ff-8c47be4b3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NotOk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>245</ymin>
+			<xmax>329</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>
