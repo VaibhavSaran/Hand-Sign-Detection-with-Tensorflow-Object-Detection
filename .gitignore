@@ -1,0 +1,25 @@
+# Ignoring the Virtual Environment
+HSPtod/*
+*/HSPtods
+
+# Ignoring .ipynb checkpoints
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+
+Tensorflow/labelimg/*
+*/.Tensorflow/labelimg
+
+Tensorflow/models/*
+*/.Tensorflow/models
+
+Tensorflow/protoc/*
+*/.Tensorflow/protoc
+
+Tensorflow/scripts/*
+*/.Tensorflow/scritps
+
+Tensorflow/workspace/models/*
+*/.Tensorflow/workspace/models
+
+Tensorflow/workspace/pre-trained-models/*
+*/.Tensorflow/workspace/pre-trained-models
