@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ok</folder>
+	<filename>ok.f8c3de68-df18-11eb-a9d8-8c47be4b3dc0.jpg</filename>
+	<path>D:\Hand-Sign-Prediction-with-Tensorflow-Object-Detection\Tensorflow\workspace\images\collectedimages\ok\ok.f8c3de68-df18-11eb-a9d8-8c47be4b3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>213</ymin>
+			<xmax>274</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.4b5b79a8-de5a-11eb-91c4-8c47be4b3dc0.jpg</filename>
+	<path>D:\Hand-Sign-Prediction-with-Tensorflow-Object-Detection\Tensorflow\workspace\images\collectedimages\thankyou\thankyou.4b5b79a8-de5a-11eb-91c4-8c47be4b3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThankYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>224</ymin>
+			<xmax>570</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>
