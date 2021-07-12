@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iloveyou</folder>
+	<filename>iloveyou.18b555c8-de5b-11eb-a30b-8c47be4b3dc0.jpg</filename>
+	<path>D:\Hand-Sign-Prediction-with-Tensorflow-Object-Detection\Tensorflow\workspace\images\collectedimages\iloveyou\iloveyou.18b555c8-de5b-11eb-a30b-8c47be4b3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ILoveYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>245</ymin>
+			<xmax>324</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
