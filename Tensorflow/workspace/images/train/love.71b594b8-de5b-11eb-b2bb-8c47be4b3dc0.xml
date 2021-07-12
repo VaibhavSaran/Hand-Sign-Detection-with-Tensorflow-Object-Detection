@@ -1,0 +1,26 @@
+<annotation>
+	<folder>love</folder>
+	<filename>love.71b594b8-de5b-11eb-b2bb-8c47be4b3dc0.jpg</filename>
+	<path>D:\Hand-Sign-Prediction-with-Tensorflow-Object-Detection\Tensorflow\workspace\images\collectedimages\love\love.71b594b8-de5b-11eb-b2bb-8c47be4b3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Love</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>210</ymin>
+			<xmax>352</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>
