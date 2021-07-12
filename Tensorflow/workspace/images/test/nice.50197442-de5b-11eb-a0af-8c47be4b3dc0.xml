@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nice</folder>
+	<filename>nice.50197442-de5b-11eb-a0af-8c47be4b3dc0.jpg</filename>
+	<path>D:\Hand-Sign-Prediction-with-Tensorflow-Object-Detection\Tensorflow\workspace\images\collectedimages\nice\nice.50197442-de5b-11eb-a0af-8c47be4b3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>282</ymin>
+			<xmax>623</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
