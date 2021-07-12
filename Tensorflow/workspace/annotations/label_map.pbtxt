@@ -1,0 +1,40 @@
+item { 
+	name:'Ok'
+	id:1
+}
+item { 
+	name:'NotOk'
+	id:2
+}
+item { 
+	name:'ThankYou'
+	id:3
+}
+item { 
+	name:'LiveLong'
+	id:4
+}
+item { 
+	name:'Name'
+	id:5
+}
+item { 
+	name:'What'
+	id:6
+}
+item { 
+	name:'You'
+	id:7
+}
+item { 
+	name:'ILoveYou'
+	id:8
+}
+item { 
+	name:'Nice'
+	id:9
+}
+item { 
+	name:'Love'
+	id:10
+}
