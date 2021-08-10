@@ -18,6 +18,10 @@ This project was an amazing journey of learning and I have enclosed some of the 
 Mute people often come across scenarios where they face a huge gap while communication with normal people. There are some stae of the art models availabe which have taken an approach on this problem by using <a href="https://www.mdpi.com/1424-8220/19/24/5429/htm">3DCNN and LSTM with FSM Context-Aware Model</a> and many more.<br>
 The general concept is that a number of CNN layers are used followed by a number of LSTM layers, use of a pretrained mobile net followed by a number of LSTM layers. These models end up requiring large amounts of data to produce good results and also demand very high compute power due to presence of 30 to 40 million parameters.
 
+## About SSD MOBNET
+SSD MobileNet V2 FPNLite 320x320 will compress the image to 320x320 in the pre processing and in post processing it is going to take the detections that it found and convert it back to the original resolution.
+It uses Image augmentation, i.e. it might darken shift or flip the image so that we can ideally get a better performing model.
+
 ## Minimum Requirements
 1) RAM : 8 GB and above
 2) Disk Space : 2 GB is the approx size of the repository
