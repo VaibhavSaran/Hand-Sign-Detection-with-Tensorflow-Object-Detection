@@ -48,7 +48,7 @@ source tfod/bin/activate # Linux
 <pre>
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfodj
+python -m ipykernel install --user --name=tfod
 </pre>
 <br/>
 <b>Step 5.</b> Run Jupyter Notebook or Jupyter Lab which ever is available. Run the command : 
